@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1683473987 source:d:\kichu\newfolder\rsa_cryptosystem\functions.cpp
+	<cmath>
+	<ctime>
+	<cstdlib>
+
+1683474179 source:d:\kichu\newfolder\rsa_cryptosystem\main.cpp
+	<iostream>
+	<time.h>
+	<cmath>
+	<cstdlib>
+	"rsa.h"
+
+1683300802 d:\kichu\newfolder\rsa_cryptosystem\rsa.h
+
+1683474322 source:d:\kichu\newfolder\rsa_cryptosystem\readme.cpp
+
